@@ -1,0 +1,5 @@
+ModeloRobustoNer/
+ModeloValidacionCruzadaNer/
+*.keras
+*.pkl
+.DS_Store
